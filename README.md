@@ -1,13 +1,15 @@
-# Tomplate
+# SolidJS Tomplate
 
-Just a basic starter template for a vanilla website :sunflower:
+Just a basic starter template for a vanilla Typescript [SolidJS](https://www.solidjs.com/) website :sunflower:
 
+- SolidJS 1.9.3
 - Typescript 5.5
 - Vite builder
 - Internal pattern for circular references
 - Prettier formatting
 - Basic VSCode settings
-- No UI frameworks
+- No router
+- No CSS frameworks
 - No testing frameworks (just write fantastic code and you're all good eh!)
 
 ## Setup
@@ -28,7 +30,7 @@ $ npm install
 
 ## Coding
 
-`index.html` is the startup page. `src/index.ts` is the startup module. Anything in `public/` will be included in the build output root.
+`index.html` is the startup page. `src/index.tsx` is the startup module. Anything in `public/` will be included in the build output root.
 
 To run the source via local webserver:
 
