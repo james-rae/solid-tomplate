@@ -18,7 +18,7 @@
         "forceConsistentCasingInFileNames": true,
         "jsx": "preserve",
         "jsxImportSource": "solid-js",
-        "types": ["vite/client", "node"]
+        "types": ["vite/client"]
     },
     "include": ["src"],
     "exclude": ["**/*.test.ts", "node_modules", "test/**", ".history/**"]
