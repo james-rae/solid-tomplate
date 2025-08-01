@@ -17,8 +17,8 @@
         "copyfiles": "^2.4.1",
         "prettier": "^3.5.3",
         "rimraf": "^6.0.1",
-        "typescript": "^5.8.3",
-        "vite": "^6.2.6",
-        "vite-plugin-solid": "^2.11.6"
+        "typescript": "^5.9.2",
+        "vite": "^7.0.6",
+        "vite-plugin-solid": "^2.11.8"
     }
 }
