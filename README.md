@@ -8,6 +8,7 @@ Just a basic starter template for a vanilla Typescript [SolidJS](https://www.sol
 - Internal pattern for circular references
 - Prettier formatting
 - Basic VSCode settings
+- [ES-Toolkit](https://es-toolkit.dev/) for helpful extras
 - No router
 - No CSS frameworks
 - No testing frameworks (just write fantastic code and you're all good eh!)
