@@ -2,11 +2,11 @@
 
 Just a basic starter template for a vanilla Typescript [SolidJS](https://www.solidjs.com/) website :sunflower:
 
-- SolidJS v1.9
-- Typescript v5.9
-- Vite builder v7
+- SolidJS 1.9
+- Typescript 5.9
+- Vite 8 builder
 - Internal pattern for circular references
-- Prettier formatting
+- Oxfmt formatting
 - Basic VSCode settings
 - [ES-Toolkit](https://es-toolkit.dev/) for helpful extras
 - No router

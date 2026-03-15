@@ -12,7 +12,7 @@ const PageLayout: Component = () => {
                 <button on:click={e => PageCtr.float()}>Float!</button> ==&gt; Floated {FloatSig()} Times
             </p>
         </div>
-    );
+    ); 
 };
 
 export { PageLayout };

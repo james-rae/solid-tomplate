@@ -8,7 +8,7 @@ export default defineConfig({
     base: './',
     build: {
         outDir: './build',
-        rollupOptions: {
+        rolldownOptions: {
             output: {
                 entryFileNames: `assets/${packageJson.name}.js`,
                 assetFileNames: `assets/${packageJson.name}.css`
