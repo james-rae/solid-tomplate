@@ -12,13 +12,13 @@
     },
     "dependencies": {
         "es-toolkit": "~1.45.1",
-        "solid-js": "1.9.11"
+        "solid-js": "1.9.12"
     },
     "devDependencies": {
-        "@types/jsdom": "^21.1.7",
-        "oxfmt": "^0.40.0",
-        "typescript": "^5.9.3",
-        "vite": "^8.0.0",
+        "@types/jsdom": "^28.0.1",
+        "oxfmt": "^0.42.0",
+        "typescript": "^6.0.2",
+        "vite": "^8.0.3",
         "vite-plugin-solid": "^2.11.11"
     }
 }
