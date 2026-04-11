@@ -16,9 +16,9 @@
     },
     "devDependencies": {
         "@types/jsdom": "^28.0.1",
-        "oxfmt": "^0.42.0",
+        "oxfmt": "^0.44.0",
         "typescript": "^6.0.2",
-        "vite": "^8.0.3",
-        "vite-plugin-solid": "^2.11.11"
+        "vite": "^8.0.8",
+        "vite-plugin-solid": "^2.11.12"
     }
 }
