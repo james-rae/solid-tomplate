@@ -3,7 +3,7 @@
 Just a basic starter template for a vanilla Typescript [SolidJS](https://www.solidjs.com/) website :sunflower:
 
 - SolidJS 1.9
-- Typescript 5.9
+- Typescript 6.0
 - Vite 8 builder
 - Internal pattern for circular references
 - Oxfmt formatting

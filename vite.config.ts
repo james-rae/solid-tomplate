@@ -1,6 +1,6 @@
 import path from 'path';
 import { defineConfig } from 'vite';
-import packageJson from './package.json';
+import packageJson from './package.json' with { type: 'json' };
 import solid from 'vite-plugin-solid';
 
 export default defineConfig({
@@ -18,8 +18,8 @@ export default defineConfig({
     },
     resolve: {
         alias: [
-            { find: '@', replacement: path.resolve(__dirname, 'src') },
-            { find: '@@', replacement: path.resolve(__dirname) }
+            { find: '@', replacement: path.resolve(import.meta.dirname, 'src') },
+            { find: '@@', replacement: path.resolve(import.meta.dirname) }
         ]
     },
     server: {
